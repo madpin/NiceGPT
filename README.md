@@ -1,0 +1,2 @@
+# NiceGPT
+NiceGui meets GPT
